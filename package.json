@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-useragent": "^1.0.12",
+    "request-ip": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/kelgendy1204/Request-Header-Parser-Microservice.git",
+  "author": "Khaled <elgendy1204@gmail.com>",
+  "license": "MIT"
+}
