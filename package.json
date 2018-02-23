@@ -4,7 +4,8 @@
     "express": "^4.16.2",
     "express-useragent": "^1.0.12",
     "mongodb": "^3.0.2",
-    "request-ip": "^2.0.2"
+    "request-ip": "^2.0.2",
+    "valid-url": "^1.0.9"
   },
   "scripts": {
     "start": "node app.js",
